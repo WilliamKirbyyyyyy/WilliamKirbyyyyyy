@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://willkirby.co.uk"><img src="https://img.shields.io/badge/willkirby.co.uk-0E1116?style=for-the-badge" alt="Website: willkirby.co.uk"></a>
-  <a href="https://get-rivet.com"><img src="https://img.shields.io/badge/get--rivet.com-FF6A1A?style=for-the-badge" alt="RIVET: get-rivet.com"></a>
+  <a href="https://get-rivet.com"><img src="https://img.shields.io/badge/get--rivet.com-B23E07?style=for-the-badge" alt="RIVET: get-rivet.com"></a>
   <a href="https://apps.microsoft.com/detail/9nvh0c7jzk0m?cid=github"><img src="https://img.shields.io/badge/Microsoft_Store-RIVET_3.5-0E1116?style=for-the-badge" alt="RIVET on the Microsoft Store"></a>
   <a href="mailto:will@willkirby.co.uk"><img src="https://img.shields.io/badge/Email-will@willkirby.co.uk-0E1116?style=for-the-badge" alt="Email will@willkirby.co.uk"></a>
 </p>
