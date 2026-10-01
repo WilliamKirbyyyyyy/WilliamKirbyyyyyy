@@ -4,10 +4,10 @@
 </picture>
 
 <p>
-  <a href="https://willkirby.co.uk"><img src="https://img.shields.io/badge/willkirby.co.uk-0E1116?style=for-the-badge" alt="Website: willkirby.co.uk"></a>
+  <a href="https://willkirby.co.uk"><img src="https://img.shields.io/badge/willkirby.co.uk-30363D?style=for-the-badge" alt="Website: willkirby.co.uk"></a>
   <a href="https://get-rivet.com"><img src="https://img.shields.io/badge/get--rivet.com-B23E07?style=for-the-badge" alt="RIVET: get-rivet.com"></a>
-  <a href="https://apps.microsoft.com/detail/9nvh0c7jzk0m?cid=github"><img src="https://img.shields.io/badge/Microsoft_Store-RIVET_3.5-0E1116?style=for-the-badge" alt="RIVET on the Microsoft Store"></a>
-  <a href="mailto:will@willkirby.co.uk"><img src="https://img.shields.io/badge/Email-will@willkirby.co.uk-0E1116?style=for-the-badge" alt="Email will@willkirby.co.uk"></a>
+  <a href="https://apps.microsoft.com/detail/9nvh0c7jzk0m?cid=github"><img src="https://img.shields.io/badge/Microsoft_Store-RIVET_3.5-30363D?style=for-the-badge" alt="RIVET on the Microsoft Store"></a>
+  <a href="mailto:will@willkirby.co.uk"><img src="https://img.shields.io/badge/Email-will@willkirby.co.uk-30363D?style=for-the-badge" alt="Email will@willkirby.co.uk"></a>
 </p>
 
 I'm a student and indie developer, and the founder of **Kirby Systems**. I ship Windows software that runs locally, respects your privacy and doesn't need a subscription to the cloud. Alongside the code there are microcontrollers, CAD and 3D printing.
@@ -45,17 +45,17 @@ I'm a student and indie developer, and the founder of **Kirby Systems**. I ship 
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-0E1116?style=flat-square" alt="C#">
-  <img src="https://img.shields.io/badge/.NET_10-0E1116?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10">
-  <img src="https://img.shields.io/badge/WPF-0E1116?style=flat-square" alt="WPF">
-  <img src="https://img.shields.io/badge/Kotlin-0E1116?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Python-0E1116?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/llama.cpp-0E1116?style=flat-square" alt="llama.cpp">
-  <img src="https://img.shields.io/badge/PowerShell-0E1116?style=flat-square" alt="PowerShell">
-  <img src="https://img.shields.io/badge/ESP32-0E1116?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/RP2040-0E1116?style=flat-square&logo=raspberrypi&logoColor=white" alt="RP2040">
-  <img src="https://img.shields.io/badge/Arduino-0E1116?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/CAD_%26_3D_printing-0E1116?style=flat-square&logo=autodesk&logoColor=white" alt="CAD and 3D printing">
+  <img src="https://img.shields.io/badge/C%23-30363D?style=flat-square" alt="C#">
+  <img src="https://img.shields.io/badge/.NET_10-30363D?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10">
+  <img src="https://img.shields.io/badge/WPF-30363D?style=flat-square" alt="WPF">
+  <img src="https://img.shields.io/badge/Kotlin-30363D?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/llama.cpp-30363D?style=flat-square" alt="llama.cpp">
+  <img src="https://img.shields.io/badge/PowerShell-30363D?style=flat-square" alt="PowerShell">
+  <img src="https://img.shields.io/badge/ESP32-30363D?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/RP2040-30363D?style=flat-square&logo=raspberrypi&logoColor=white" alt="RP2040">
+  <img src="https://img.shields.io/badge/Arduino-30363D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/CAD_%26_3D_printing-30363D?style=flat-square&logo=autodesk&logoColor=white" alt="CAD and 3D printing">
 </p>
 
 ## Recognition
