@@ -20,7 +20,7 @@ I'm a student and indie developer, and the founder of **Kirby Systems**. I ship 
       <a href="https://get-rivet.com"><img src="assets/rivet.webp" alt="RIVET 3.5 Overview screen with live CPU, memory, GPU and network readings"></a>
       <h3>RIVET</h3>
       <p>A native Windows system manager (.NET 10 + WPF). Live hardware stats, signed-process verification, startup impact ratings, plain-English tweaks, and <b>Ask RIVET</b>, a local AI that answers questions about your PC without sending anything off it. 3.5 adds Guard &amp; Restore, a first-run checkup and roll back to a date.</p>
-      <p><img src="https://img.shields.io/badge/live-Microsoft_Store-166534?style=flat-square" alt="Live on the Microsoft Store"> <img src="https://img.shields.io/badge/installs-14_countries-3E4552?style=flat-square" alt="Installed in 14 countries"></p>
+      <p><img src="https://img.shields.io/badge/live-Microsoft_Store-166534?style=flat-square" alt="Live on the Microsoft Store"> <img src="https://img.shields.io/badge/Store_installs-33-3E4552?style=flat-square" alt="33 Store installs"></p>
       <p><a href="https://apps.microsoft.com/detail/9nvh0c7jzk0m?cid=github">Microsoft Store</a> · <a href="https://get-rivet.com">get-rivet.com</a></p>
     </td>
     <td width="42%" valign="top">
@@ -66,9 +66,14 @@ I'm a student and indie developer, and the founder of **Kirby Systems**. I ship 
 | BPhO Physics Challenge | 🥇 Gold |
 | UK Bebras, Juniors | 🥇 Gold |
 | UKMT Junior Maths Challenge | 🥈 Silver |
+| Duke of Edinburgh's Award | Bronze · Silver in progress |
+
+## Investigation
+
+In February 2026 I recorded twelve listings on the Temu UK app for age-restricted or banned products, each available with no age check shown. Examples: disposable vapes, vape hardware filed under "Power Tools" and sparklers under "Makeup". I wrote it up with the law each listing engages and submitted it to Trading Standards. [More on my site →](https://willkirby.co.uk/#investigation)
 
 ## Currently
 
-Preparing for UKOAI 2027 · learning neural networks · a high-altitude balloon payload · shipping RIVET 3.5
+Preparing for UKOAI 2027 · learning neural networks · a high-altitude balloon payload · reprinting a DIY VR headset · shipping RIVET 3.5
 
 <sub>RIVET 3's source is private, since it's a paid Store app. The original 2.x source is public in <a href="https://github.com/WilliamKirbyyyyyy/rivet"><code>rivet</code></a>.</sub>
